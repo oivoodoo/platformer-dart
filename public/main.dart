@@ -1,7 +1,7 @@
 import 'dart:html';
 import 'lib/Game';
 
-void main() {
+main() {
   Game game = new Game();
   game.start();
 
