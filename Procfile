@@ -1,1 +1,2 @@
-PORT=3001
+web: shotgun --port=$PORT server.rb
+
