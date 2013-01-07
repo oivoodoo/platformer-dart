@@ -1,5 +1,5 @@
 import 'dart:html';
-import 'lib/game';
+import 'lib/Game';
 
 void main() {
   Game game = new Game();
